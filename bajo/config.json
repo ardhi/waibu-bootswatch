@@ -1,0 +1,4 @@
+{
+  "alias": "wbbw",
+  "dependencies": ["waibu-mpa", "waibu-bootstrap"]
+}
