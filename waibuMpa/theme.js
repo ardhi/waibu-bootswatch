@@ -9,7 +9,8 @@ async function theme (ctx) {
     return {
       name: t,
       framework,
-      css
+      css,
+      cssExcludes: 'waibuBootstrap.virtual:/bootstrap/css/bootstrap.min.css'
     }
   })
 }
