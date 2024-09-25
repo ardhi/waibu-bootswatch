@@ -1,6 +1,6 @@
 # waibu-bootswatch
 
-Plugin name: **waibuBootstrap**, alias: **wbbw**
+Plugin name: **waibuBootstrap**, alias: **wbw**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-bootswatch) ![NPM Version](https://img.shields.io/npm/v/waibu-bootswatch)
 
