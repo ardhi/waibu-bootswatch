@@ -1,4 +1,4 @@
 {
-  "alias": "wbw",
+  "prefix": "bootswatch",
   "dependencies": ["waibu-mpa", "waibu-bootstrap"]
 }
