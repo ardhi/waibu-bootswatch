@@ -1,4 +1,6 @@
 {
-  "prefix": "bootswatch",
+  "waibu": {
+    "prefix": "bootswatch"
+  },
   "dependencies": ["waibu-mpa", "waibu-bootstrap"]
 }
