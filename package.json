@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/ardhi/waibu-bootswatch#readme",
   "dependencies": {
-    "bootswatch": "^5.3.3"
+    "bootswatch": "^5.3.8"
   },
   "devDependencies": {
     "clean-jsdoc-theme": "^4.3.0",
