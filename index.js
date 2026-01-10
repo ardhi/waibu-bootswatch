@@ -13,9 +13,6 @@ async function factory (pkgName) {
    * @class
    */
   class WaibuBootswatch extends this.app.baseClass.Base {
-    static alias = 'wbw'
-    static dependencies = ['waibu-mpa', 'waibu-bootstrap']
-
     constructor () {
       super(pkgName, me.app)
       this.config = {
